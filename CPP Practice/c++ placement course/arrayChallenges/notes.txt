@@ -1,0 +1,8 @@
+sub array = continuous of an array
+number of sub arrys in a array of size n is nC2 + n  = n(n+1)/2
+nC2 choosing a starting point and an ending point  + al solo elements
+
+
+subsequence = sequence got by picking elements with out changing order
+no of subsequences = (2 ^ n) -1  (n is the size of array)
+Every Subarray is a Subsequence but every Subsequence is not a Subarray .
