@@ -33,6 +33,7 @@ void inOrder(Node * root){
 int main()
 {
     Node * root = makeTree();
+    inOrder(root);
     
  return 0;
 }
